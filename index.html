@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Chemical Supplies</title>
+		<!-- CSS STYLESHEETS -->
+		<link rel="stylesheet" href="css/bootstrap.css" />
+		<link rel="stylesheet" href="css/styles.css" />
+		<!-- BOOTSTRAP ICONS -->
+
+		<link rel="stylesheet" href="css/bootstrap-icons.css" />
+	</head>
+	<body>
+		<div class="container">
+			<div id="page-heading">
+				<h1>Chemical Supplies</h1>
+				<div id="table-options">
+					<i id="addRow" class="bi bi-plus-square"></i>
+					<i id="rowDown" class="bi bi-arrow-down strong" onclick="rowDown()"></i>
+					<i id="rowUp" class="bi bi-arrow-up" onclick="rowUp()"></i>
+					<i id="deleteRow" class="bi bi-trash" style="color: red" onclick="deleteRow()"></i>
+					<i id="refreshTable" class="bi bi-arrow-clockwise" onclick="loadData()"></i>
+					<i id="saveTable" class="bi bi-save"></i>
+				</div>
+			</div>
+
+			<table>
+				<thead>
+					<tr id="table-headings">
+						<th><i class="bi bi-check2"></i></th>
+						<th id="id">ID</th>
+						<th id="chemName">Chemical name</th>
+						<th id="vendor">Vendor</th>
+						<th id="density">
+							Density <br />
+							<p>"g/m<sup>2</sup>"</p>
+						</th>
+						<th id="visco">
+							Viscosity <br />
+
+							<p>"m<sup>2</sup>/s"</p>
+						</th>
+						<th id="pack">Packaging</th>
+						<th id="packSize">Pack Size</th>
+						<th id="unit">Unit</th>
+						<th id="qty">Quantity</th>
+					</tr>
+				</thead>
+				<tbody></tbody>
+			</table>
+		</div>
+
+		<script src="js/index.js"></script>
+	</body>
+</html>

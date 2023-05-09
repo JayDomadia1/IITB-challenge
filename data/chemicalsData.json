@@ -1,0 +1,157 @@
+[
+	{
+		"id": 1,
+		"chemName": "Ammonium Persulfate",
+		"vendor": "LG Chem",
+		"density": 3525.92,
+		"visco": 60.63,
+		"pack": "Bag",
+		"packSize": 100,
+		"unit": "kg",
+		"qty": 6495.18
+	},
+	{
+		"id": 2,
+		"chemName": "Caustic Potash",
+		"vendor": "Formosa",
+		"density": 3172.15,
+		"visco": 48.22,
+		"pack": "Bag",
+		"packSize": 100,
+		"unit": "kg",
+		"qty": 8751.9
+	},
+	{
+		"id": 3,
+		"chemName": "Sodium Bisulfite",
+		"vendor": "Merck",
+		"density": 1982.63,
+		"visco": 24.78,
+		"pack": "Bottle",
+		"packSize": 1,
+		"unit": "L",
+		"qty": 256.49
+	},
+	{
+		"id": 4,
+		"chemName": "Hydrochloric Acid",
+		"vendor": "BASF",
+		"density": 1185,
+		"visco": 1.5,
+		"pack": "Drum",
+		"packSize": 200,
+		"unit": "kg",
+		"qty": 350.2
+	},
+	{
+		"id": 5,
+		"chemName": "Sodium Hydroxide",
+		"vendor": "Dow Chemical",
+		"density": 2100,
+		"visco": 45,
+		"pack": "Bag",
+		"packSize": 50,
+		"unit": "kg",
+		"qty": 1532.9
+	},
+	{
+		"id": 6,
+		"chemName": "Acetic Acid",
+		"vendor": "Mitsubishi Chemical",
+		"density": 1049,
+		"visco": 1.22,
+		"pack": "Drum",
+		"packSize": 200,
+		"unit": "kg",
+		"qty": 549.83
+	},
+	{ "id": 7, "chemName": "Ethanol", "vendor": "SABIC", "density": 789, "visco": 1.2, "pack": "Tank", "packSize": 5000, "unit": "L", "qty": 11456.7 },
+	{
+		"id": 8,
+		"chemName": "Sodium Chloride",
+		"vendor": "Sigma Aldrich",
+		"density": 2164,
+		"visco": 78.5,
+		"pack": "Bottle",
+		"packSize": 500,
+		"unit": "g",
+		"qty": 645.8
+	},
+	{
+		"id": 9,
+		"chemName": "Sulfuric Acid",
+		"vendor": "AkzoNobel",
+		"density": 1842,
+		"visco": 25,
+		"pack": "Tank",
+		"packSize": 5000,
+		"unit": "L",
+		"qty": 3387.6
+	},
+	{
+		"id": 10,
+		"chemName": "Hydrogen Peroxide",
+		"vendor": "DuPont",
+		"density": 1450,
+		"visco": 1.2,
+		"pack": "Bottle",
+		"packSize": 500,
+		"unit": "ml",
+		"qty": 231.9
+	},
+	{
+		"id": 11,
+		"chemName": "Methanol",
+		"vendor": "ExxonMobil",
+		"density": 789,
+		"visco": 0.6,
+		"pack": "Drum",
+		"packSize": 200,
+		"unit": "kg",
+		"qty": 936.5
+	},
+	{
+		"id": 12,
+		"chemName": "Propylene Glycol",
+		"vendor": "Dow Chemical",
+		"density": 1033,
+		"visco": 3.5,
+		"pack": "Ibc",
+		"packSize": 1000,
+		"unit": "kg",
+		"qty": 459.2
+	},
+	{
+		"id": 13,
+		"chemName": "Toluene",
+		"vendor": "Chevron Phillips",
+		"density": 867,
+		"visco": 0.6,
+		"pack": "Tank",
+		"packSize": 5000,
+		"unit": "L",
+		"qty": 11230.7
+	},
+	{
+		"id": 14,
+		"chemName": "Isopropyl Alcohol",
+		"vendor": "Shell",
+		"density": 785,
+		"visco": 2.4,
+		"pack": "Bottle",
+		"packSize": 1,
+		"unit": "L",
+		"qty": 385.1
+	},
+	{
+		"id": 15,
+		"chemName": "Phosphoric Acid",
+		"vendor": "Bayer",
+		"density": 1740,
+		"visco": 18.5,
+		"pack": "Drum",
+		"packSize": 200,
+		"unit": "kg",
+		"qty": 178.9
+	}
+]
