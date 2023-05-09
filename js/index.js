@@ -104,7 +104,7 @@ let sortData = (array, objectID, sortOrder) => {
 };
 const loadData = async () => {
 	try {
-		const response = await fetch("../data/chemicalsData.json");
+		const response = await fetch("https://raw.githubusercontent.com/JayDomadia1/IITB-challenge/main/data/chemicalsData.json");
 		if (response.ok) {
 			const data = await response.json();
 
